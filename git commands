@@ -1,0 +1,14 @@
+Ways to upload your project or any files to git :
+
+1.Make repository in github and give a proper name.
+2.add command such as :
+  a) git init
+  b) git status
+  c) git add .
+  d)git commit -m "my first commit"
+  e)git remote add origin "add your reposiory github path"
+  f)git branch -M main
+  g)git push -u origin main --force
+
+
+   and repository will be added.
